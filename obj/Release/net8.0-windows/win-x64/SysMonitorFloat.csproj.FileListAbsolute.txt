@@ -1,0 +1,14 @@
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\bin\Release\net8.0-windows\win-x64\SysMonitorFloat.exe
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\bin\Release\net8.0-windows\win-x64\SysMonitorFloat.deps.json
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\bin\Release\net8.0-windows\win-x64\SysMonitorFloat.runtimeconfig.json
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\bin\Release\net8.0-windows\win-x64\SysMonitorFloat.dll
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\bin\Release\net8.0-windows\win-x64\SysMonitorFloat.pdb
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.AssemblyInfoInputs.cache
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.AssemblyInfo.cs
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.csproj.CoreCompileInputs.cache
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.dll
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\refint\SysMonitorFloat.dll
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.pdb
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\SysMonitorFloat.genruntimeconfig.cache
+E:\Dpsk\Desktop_memWch\SysMonitorFloat\obj\Release\net8.0-windows\win-x64\ref\SysMonitorFloat.dll
