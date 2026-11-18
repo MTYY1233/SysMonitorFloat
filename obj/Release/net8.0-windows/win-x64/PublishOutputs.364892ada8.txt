@@ -1,5 +1,0 @@
-E:\Dpsk\Desktop_memWch\SysMonitorFloat\publish\SysMonitorFloat.exe
-E:\Dpsk\Desktop_memWch\SysMonitorFloat\publish\SysMonitorFloat.dll
-E:\Dpsk\Desktop_memWch\SysMonitorFloat\publish\SysMonitorFloat.deps.json
-E:\Dpsk\Desktop_memWch\SysMonitorFloat\publish\SysMonitorFloat.runtimeconfig.json
-E:\Dpsk\Desktop_memWch\SysMonitorFloat\publish\SysMonitorFloat.pdb
